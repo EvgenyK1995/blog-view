@@ -11,10 +11,6 @@ export default {
 }
 </script>
 <style scoped>
-.home-page {
-    margin: 0 auto;
-    width: 900px;
-}
 .home-page__header {
     color: #4b6b5f;
     text-align: center;
