@@ -2,7 +2,30 @@
   "posts": [
     {
       "title": "First post",
-      ""
+      "text-post": "Default test text post Default test text post Default test text post Default test text post Default test text post",
+      "user-id": 0,
+      "id": 0
+    },
+    {
+      "title": "Second post",
+      "text-post": "Default test text post Default test text post Default test text post Default test text post Default test text post",
+      "user-id": 0,
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "username": "Петя",
+      "password": "qwe",
+      "id": 0
+    }
+  ],
+  "comments": [
+    {
+      "text-comment": "",
+      "date": "2019.02.20",
+      "user-id": 0,
+      "id": 0
     }
   ]
 }
